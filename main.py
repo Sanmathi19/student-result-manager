@@ -1,7 +1,7 @@
 from grades import calculate_grade
 
 def main():
-    print("Student Result Manager v1.0")
+    print("Student Result Manager v1.1 - Grade Report")
     marks = [88, 76, 95, 81, 69]
 
     # Input validation (resolves issue #1)
