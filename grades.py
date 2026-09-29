@@ -7,4 +7,6 @@ def calculate_grade(average):
         return "C"
     else:
         return "F"
-        
+
+def calculate_percentage(marks, max_marks=100):
+    return (sum(marks) / (len(marks) * max_marks)) * 100
