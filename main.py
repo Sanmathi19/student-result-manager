@@ -2,7 +2,7 @@ from grades import calculate_grade
 
 def main():
     print("Student Result Manager v1.0")
-    marks = [85, 90, 78, 92]
+    marks = [88, 76, 95, 81, 69]
     average = sum(marks) / len(marks)
     print(f"Marks: {marks}")
     print(f"Average: {average:.2f}")
@@ -10,4 +10,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
