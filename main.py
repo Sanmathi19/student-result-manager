@@ -2,6 +2,10 @@ from grades import calculate_grade
 
 def main():
 
+
+    print("Student Result Manager v1.6 - Grade & Marks Report")
+
+
     print("Student Result Manager v1.6 - Grade & Marks Report")
 
     marks = [88, 76, 95, 81, 69]
