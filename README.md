@@ -17,3 +17,5 @@ Open a terminal in this folder and run:  python main.py
 
 ## Version
 1.0.0
+## Contributors
+This project was built by a team of three students.
