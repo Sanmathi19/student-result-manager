@@ -12,7 +12,7 @@ Open a terminal in this folder and run:  python main.py
 
 ## Team
 - Member A (@Sanmathi19)
-- Member B (@usernameB)
+- Member B (@diyaskamath)
 - Member C (@usernameC)
 
 ## Version
