@@ -13,7 +13,7 @@ Open a terminal in this folder and run:  python main.py
 ## Team
 - Member A (@Sanmathi19)
 - Member B (@diyaskamath)
-- Member C 
+- Member C (@suryaabalamurugan0-hub)
 
 ## Version
 1.0.0
