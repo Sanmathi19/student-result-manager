@@ -4,7 +4,7 @@ A simple Python CLI tool that stores student marks and calculates the average an
 
 ## Features
 - Store a list of student marks
-- Calculate the average
+- Calculate the average.
 - Calculate the letter grade
 
 ## How to Run
